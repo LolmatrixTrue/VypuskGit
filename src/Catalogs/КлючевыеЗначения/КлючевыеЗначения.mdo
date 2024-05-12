@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a820e883-e95c-42f9-b9f6-cfd74f9a24d6">
+  <producedTypes>
+    <objectType typeId="6d0b7c93-3232-4552-8367-ca17d2c4dd96" valueTypeId="f4da93da-d944-407b-ba2e-a4894e358111"/>
+    <refType typeId="75fbcbb4-8b8c-4153-b540-eb651ab31e88" valueTypeId="c6f4e2ff-d09e-4890-9d12-c7c96c7eec29"/>
+    <selectionType typeId="1d288715-f983-43c4-8f2c-3d2f44252285" valueTypeId="d8e5ef07-f065-49d5-a90e-9b535123305e"/>
+    <listType typeId="9f106f50-c837-41a4-8fea-71ef7db05e05" valueTypeId="07ec8c53-5434-4abc-b53e-0f988262c84d"/>
+    <managerType typeId="01b1727f-eb44-4aa0-bfc8-0822350b072e" valueTypeId="0a2c2e55-b1ef-4797-b935-f3052efd2d73"/>
+  </producedTypes>
+  <name>КлючевыеЗначения</name>
+  <synonym>
+    <key>ru</key>
+    <value>Ключевые значения</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.КлючевыеЗначения.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.КлючевыеЗначения.StandardAttribute.Code</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <predefined>
+    <items id="8ef68bc4-41ee-4ec6-b499-a6013d1037e1">
+      <name>СиловойТУ310</name>
+      <description>Силовой ТУ 310</description>
+      <code xsi:type="core:StringValue">
+        <value>000000001</value>
+      </code>
+    </items>
+    <items id="650e4034-afb3-42a5-8dee-f465dcc2b1ae">
+      <name>СиловойИТУ310Новый</name>
+      <description>Силовой ТУ 310_Новый</description>
+      <code xsi:type="core:StringValue">
+        <value>000000002</value>
+      </code>
+    </items>
+  </predefined>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <attributes uuid="08b1ebce-b91a-4527-a271-48c96776ecfc">
+    <name>Значение</name>
+    <synonym>
+      <key>ru</key>
+      <value>Значение</value>
+    </synonym>
+    <type>
+      <types>CatalogRef.СтандартыСертификации</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Catalog>

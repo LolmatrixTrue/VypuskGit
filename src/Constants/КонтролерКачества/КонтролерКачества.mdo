@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a5da73ba-b12c-4220-8bef-f654a0936a04">
+  <producedTypes>
+    <managerType typeId="b12ba10b-5c26-4d5d-8722-273ced861344" valueTypeId="4cc4bf7c-6188-486a-974d-4040b4f68066"/>
+    <valueManagerType typeId="68dd76bb-1f2d-4650-9dfc-9dcd24422411" valueTypeId="bc91bb9d-fb36-4988-9750-332ffb98fffe"/>
+    <valueKeyType typeId="28cc6ae1-1296-43c7-be24-2891bfe2455e" valueTypeId="b1f9247c-172b-48e1-a11a-8a8cbadab92c"/>
+  </producedTypes>
+  <name>КонтролерКачества</name>
+  <synonym>
+    <key>ru</key>
+    <value>Контролер качества</value>
+  </synonym>
+  <type>
+    <types>CatalogRef.ФизическиеЛица</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

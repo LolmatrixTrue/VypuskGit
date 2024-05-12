@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="11bf57b5-3465-494e-9c5b-f1defe6218a2">
+  <producedTypes>
+    <refType typeId="393c0c2e-18ed-4003-844f-b2b50d76dc77" valueTypeId="246a0569-8954-48c1-8ffc-d61e6d6395d3"/>
+    <listType typeId="ca6bd4c8-b668-44bc-9f46-4af15221693c" valueTypeId="57ee06b9-54f4-4a7e-b0d9-e2bccc2f7911"/>
+    <managerType typeId="1c0ca2e5-3a73-4145-bd26-2af8abc3bb93" valueTypeId="7ec02c78-2614-4d3d-ab3f-818d4f9fada8"/>
+  </producedTypes>
+  <name>ВидыСертификатов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Виды сертификатов</value>
+  </synonym>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Order</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Ref</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="bc2e2558-a872-48ac-b40f-74795952b6c2">
+    <name>ТУ003</name>
+    <synonym>
+      <key>ru</key>
+      <value> ТУ 003</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="d6ace8ef-0a1c-4493-9f5a-804d3312fd2a">
+    <name>ТУ004</name>
+    <synonym>
+      <key>ru</key>
+      <value> ТУ 004</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="3b068250-cd1f-4543-8d80-88226ab3910e">
+    <name>ТУ007</name>
+    <synonym>
+      <key>ru</key>
+      <value> ТУ 007</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="027ad205-309d-48d2-8755-590de2f51653">
+    <name>ТУ008</name>
+    <synonym>
+      <key>ru</key>
+      <value> ТУ 008</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="d354acf1-62ed-4892-b0af-dab34c61a2fd">
+    <name>ТУ499</name>
+    <synonym>
+      <key>ru</key>
+      <value> ТУ 499</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="a615db64-b7b4-4813-ab37-1002ccf16de5">
+    <name>КонтрольныйТУ304</name>
+    <synonym>
+      <key>ru</key>
+      <value>Контрольный ТУ 304</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="1e5cbf51-7af7-49d2-838b-97de44b01493">
+    <name>КонтрольныйТУ339</name>
+    <synonym>
+      <key>ru</key>
+      <value>Контрольный ТУ 339</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="efd70df7-cd8a-42ee-abab-07e617d53565">
+    <name>КонтрольныйТУ310</name>
+    <synonym>
+      <key>ru</key>
+      <value>Контрольный ТУ 310</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="14ee4916-092f-4140-bfb2-dcabdb495de8">
+    <name>СиловойТУ304</name>
+    <synonym>
+      <key>ru</key>
+      <value>Силовой  ТУ 304</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="8b82bdd6-1c59-42d5-999b-339778a61705">
+    <name>СиловойТУ310</name>
+    <synonym>
+      <key>ru</key>
+      <value>Силовой  ТУ 310</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="01afaf41-93a9-435a-8cdd-da6864b2567b">
+    <name>СиловойТУ337</name>
+    <synonym>
+      <key>ru</key>
+      <value>Силовой  ТУ 337</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="b78b853d-6271-4db8-bfe2-328ad9d32eb3">
+    <name>КонтрольныйТУ090</name>
+    <synonym>
+      <key>ru</key>
+      <value>Контрольный ТУ 090</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="f5c2f7b8-f896-4606-9ef3-c99e57a225a2">
+    <name>АС_839_2019</name>
+    <synonym>
+      <key>ru</key>
+      <value> 839 -2019</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

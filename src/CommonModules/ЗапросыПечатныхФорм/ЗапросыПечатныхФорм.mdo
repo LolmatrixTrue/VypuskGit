@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="231e0638-2357-4572-9b75-d8d22e5f5fe7">
+  <name>ЗапросыПечатныхФорм</name>
+  <synonym>
+    <key>ru</key>
+    <value>Запросы печатных форм</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

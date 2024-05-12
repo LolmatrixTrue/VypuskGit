@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9e4e3413-06b9-4383-bf01-ce529595b3be">
+  <name>Справочники</name>
+  <synonym>
+    <key>ru</key>
+    <value>Справочники</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <picture xsi:type="core:PictureRef">
+    <picture>CommonPicture.НСИ</picture>
+  </picture>
+  <content>Catalog.Госты</content>
+  <content>Catalog.ЕдиницыИзмерения</content>
+  <content>Catalog.МаркиКабелей</content>
+  <content>Catalog.Обшив</content>
+  <content>Catalog.Тара</content>
+  <content>Catalog.ШтампыОТК</content>
+  <content>Catalog.ЦветаКабеля</content>
+  <content>Catalog.Отрезки</content>
+  <content>CommonCommand.ПоказатьВерсиюБСП</content>
+  <content>Catalog.ТребуемыеЗначенияПараметровИспытаний</content>
+  <content>Catalog.ФизическиеЛица</content>
+  <content>Catalog.СтандартыСертификации</content>
+  <content>Catalog.Напряжения</content>
+  <content>Constant.КонтролерКачества</content>
+</mdclass:Subsystem>

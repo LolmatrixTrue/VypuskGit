@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ca5d3eb7-e0f5-4ee0-aca6-7d330cebd34a">
+  <producedTypes>
+    <objectType typeId="757cc977-5d14-4a77-963d-8233db14be26" valueTypeId="68fb85b4-0854-4915-956b-04bdeca2f60e"/>
+    <managerType typeId="32460d9c-3f6c-4fc4-8822-6f98d2722900" valueTypeId="cbbd4db6-3e99-4e9b-84e1-bf4c8f79677e"/>
+  </producedTypes>
+  <name>ЗаменитьВсеСсылкиНаПредопределенныеЭлементыСправорчникаТараВДокументах</name>
+  <synonym>
+    <key>ru</key>
+    <value>Заменить все ссылки на предопределенные элементы справочника тара в документах</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.ЗаменитьВсеСсылкиНаПредопределенныеЭлементыСправорчникаТараВДокументах.Form.Форма</defaultForm>
+  <forms uuid="93d8e65c-fffe-41cb-a325-87db2db9d55a">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>

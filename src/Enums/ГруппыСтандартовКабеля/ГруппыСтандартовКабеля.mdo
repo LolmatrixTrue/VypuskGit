@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="157cbd61-c27d-4918-98f0-5153095ed786">
+  <producedTypes>
+    <refType typeId="a52ba573-3a5a-449c-b8bd-9b9d7e1f3e1d" valueTypeId="e5054184-ce54-4233-b510-d8f5352f5db8"/>
+    <listType typeId="50a7dcfe-1962-4bb7-9277-b69cb81768cc" valueTypeId="4931a92b-184b-4fce-af9a-10a247d8e97d"/>
+    <managerType typeId="0ac42299-60bb-4476-b267-51af16fe04fc" valueTypeId="827d5407-b818-485e-b8c4-6390407214b0"/>
+  </producedTypes>
+  <name>ГруппыСтандартовКабеля</name>
+  <synonym>
+    <key>ru</key>
+    <value>Группы стандартов кабеля</value>
+  </synonym>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Order</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Ref</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="f89ea769-8ad5-4959-b0ce-8210cfa02fc2">
+    <name>Силовые</name>
+    <synonym>
+      <key>ru</key>
+      <value>Силовые</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="b9e64f14-b6fd-4c10-a24e-ae283c67b063">
+    <name>Контрольные</name>
+    <synonym>
+      <key>ru</key>
+      <value>Контрольные</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
