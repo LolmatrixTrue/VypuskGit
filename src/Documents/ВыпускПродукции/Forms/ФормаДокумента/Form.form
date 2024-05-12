@@ -3704,63 +3704,6 @@
       </extInfo>
     </items>
     <items xsi:type="form:FormField">
-      <name>ПолеСПечатнойФормой</name>
-      <id>293</id>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
-      <dataPath xsi:type="form:DataPath">
-        <segments>ПолеСПечатнойФормой</segments>
-      </dataPath>
-      <extendedTooltip>
-        <name>ПолеСПечатнойФормойРасширеннаяПодсказка</name>
-        <id>295</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-        <type>Label</type>
-        <autoMaxWidth>true</autoMaxWidth>
-        <autoMaxHeight>true</autoMaxHeight>
-        <extInfo xsi:type="form:LabelDecorationExtInfo">
-          <horizontalAlign>Left</horizontalAlign>
-        </extInfo>
-      </extendedTooltip>
-      <contextMenu>
-        <name>ПолеСПечатнойФормойКонтекстноеМеню</name>
-        <id>294</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-        <autoFill>true</autoFill>
-      </contextMenu>
-      <type>SpreadsheetDocumentField</type>
-      <editMode>Enter</editMode>
-      <showInHeader>true</showInHeader>
-      <headerHorizontalAlign>Left</headerHorizontalAlign>
-      <showInFooter>true</showInFooter>
-      <extInfo xsi:type="form:SpreadSheetDocFieldExtInfo">
-        <width>50</width>
-        <autoMaxWidth>true</autoMaxWidth>
-        <height>10</height>
-        <autoMaxHeight>true</autoMaxHeight>
-        <horizontalStretch>true</horizontalStretch>
-        <verticalStretch>true</verticalStretch>
-        <pointerType>Special</pointerType>
-        <verticalScrollBar>ScrollAuto</verticalScrollBar>
-        <horizontalScrollBar>ScrollAuto</horizontalScrollBar>
-        <selectionShowMode>Always</selectionShowMode>
-        <drawingSelectionShowMode>Auto</drawingSelectionShowMode>
-        <showGroups>true</showGroups>
-        <enableStartDrag>true</enableStartDrag>
-        <enableDrag>true</enableDrag>
-      </extInfo>
-    </items>
-    <items xsi:type="form:FormField">
       <name>Ответственный</name>
       <id>138</id>
       <visible>true</visible>
@@ -4441,20 +4384,6 @@
     </notDefaultUseAlwaysAttributes>
     <main>true</main>
     <savedData>true</savedData>
-  </attributes>
-  <attributes>
-    <name>ПолеСПечатнойФормой</name>
-    <id>2</id>
-    <valueType>
-      <types>SpreadsheetDocument</types>
-    </valueType>
-    <view>
-      <common>true</common>
-    </view>
-    <edit>
-      <common>true</common>
-    </edit>
-    <extInfo xsi:type="form:SpreadsheetDocumentExtInfo"/>
   </attributes>
   <attributes>
     <name>СечениеЖилы</name>

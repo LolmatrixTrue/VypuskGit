@@ -180,10 +180,10 @@
     <dataHistory>Use</dataHistory>
   </attributes>
   <attributes uuid="1c92946d-fe28-4763-a613-852d2a7921cc">
-    <name>Реквизит1</name>
+    <name>Реквизит2</name>
     <synonym>
       <key>ru</key>
-      <value>Реквизит1</value>
+      <value>Реквизит2</value>
     </synonym>
     <type>
       <types>String</types>
