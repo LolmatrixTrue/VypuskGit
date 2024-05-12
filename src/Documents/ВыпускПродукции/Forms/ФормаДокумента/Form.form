@@ -386,7 +386,7 @@
         <extInfo xsi:type="form:UsualGroupExtInfo">
           <group>HorizontalIfPossible</group>
           <horizontalAlign>Right</horizontalAlign>
-          <representation>StrongSeparation</representation>
+          <representation>NormalSeparation</representation>
           <showLeftMargin>true</showLeftMargin>
           <united>true</united>
           <showTitle>true</showTitle>
@@ -687,7 +687,7 @@
         <extInfo xsi:type="form:UsualGroupExtInfo">
           <group>HorizontalIfPossible</group>
           <horizontalAlign>Right</horizontalAlign>
-          <representation>StrongSeparation</representation>
+          <representation>NormalSeparation</representation>
           <showLeftMargin>true</showLeftMargin>
           <united>true</united>
           <showTitle>true</showTitle>
@@ -981,7 +981,7 @@
       <group>AlwaysHorizontal</group>
       <behavior>Collapsible</behavior>
       <controlRepresentation>Picture</controlRepresentation>
-      <representation>WeakSeparation</representation>
+      <representation>StrongSeparation</representation>
       <showLeftMargin>true</showLeftMargin>
       <united>true</united>
       <showTitle>true</showTitle>
